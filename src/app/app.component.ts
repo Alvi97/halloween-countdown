@@ -8,6 +8,7 @@ import { CountdownComponent } from 'ngx-countdown';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
 
 
